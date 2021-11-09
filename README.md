@@ -17,3 +17,5 @@ Change 2 by KJ in master branch.
 
 Change 1 by KJ in release branch.
 
+Change 2 by KJ in release branch.
+
