@@ -6,3 +6,7 @@ this file, you have successfully completed a git pull
 operation.
 
 This repository also includes other files which we will see later in the course.
+
+##############################################################################
+
+Change 1 by KJ in master branch.
